@@ -5,4 +5,3 @@ if time == even
 else
   puts "Odd!"
 end
-end
